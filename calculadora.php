@@ -3,7 +3,7 @@ $operacion = $_POST['op'];
 $numero1 = $_POST['n1'];
 $numero2 = $_POST['n2'];
 
-//abcde
+//abcdef
 
 function calcular($operacion, $numero1, $numero2) {
 
